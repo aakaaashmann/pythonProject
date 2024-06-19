@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Recommender System Using AI and ML</title>
+    
 </head>
 <body>
 
@@ -16,7 +16,7 @@
 <ul>
     <li><strong>User-Based Collaborative Filtering</strong>: Recommends books based on the similarity between users.</li>
     <li><strong>Item-Based Collaborative Filtering</strong>: Recommends books based on the similarity between books.</li>
-    <li><strong>Content-Based Filtering</strong>: Recommends books based on the similarity between book features (e.g., genre, author).</li>
+    <li><strong>Popularity-Based Filtering</strong>: Recommends books based on the Popularity(e.g., Top 50 books of all time).</li>
     <li><strong>Hybrid Model</strong>: Combines collaborative filtering and content-based filtering for enhanced recommendations.</li>
     <li><strong>Serialization with Pickle</strong>: Saves and loads trained models using Pickle for efficient predictions.</li>
 </ul>
